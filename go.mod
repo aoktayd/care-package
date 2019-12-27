@@ -1,4 +1,4 @@
-module intgodeuser
+module care-package
 
 go 1.13
 
