@@ -19,7 +19,7 @@ var tiles = map[int]rune{
 	wall:   '█',
 	block:  '█',
 	paddle: '▀',
-	ball:   '◯',
+	ball:   '●',
 }
 
 var background = tcell.StyleDefault.Background(tcell.ColorAntiqueWhite)
